@@ -7,11 +7,11 @@
     "type": "git",
     "url": "https://github.com/harigad/cordova-plugin-firebase"
   },
-  "name": "cordova-plugin-firebase-xcode",
+  "name": "cordova-plugin-firebase",
   "version": "2.0.5",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
-    "id": "cordova-plugin-firebase-xcode",
+    "id": "cordova-plugin-firebase",
     "platforms": [
       "android",
       "ios",
